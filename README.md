@@ -1,6 +1,6 @@
 # Claude 国内免费使用指南（支持Claude 4 Sonnet，无需翻墙）【9月持续更新】
 
-> **更新时间：2025/09/15**     
+> **更新时间：2025/09/16**     
 
 **全面体验 [Claude 中文版](https://ai.lanjing.pro/)，无需翻墙，支持 Claude 4 Sonnet 和多功能应用！**  
 本项目旨在为用户提供一站式的 **[Claude 中文版](https://xsimplechat.com/)使用指南**，同时整理了国内可用的 **[Claude 镜像网站](https://ai.lanjing.pro/)** 和 **官网使用教程**，帮助您快速上手 Claude，无论是个人使用还是专业需求。
