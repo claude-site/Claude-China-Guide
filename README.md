@@ -1,9 +1,9 @@
-# Claude 国内免费使用指南（支持Claude 4 Sonnet，无需翻墙）【10月持续更新】
+# Claude 国内免费使用指南（支持Claude 4.5 Sonnet，无需翻墙）【10月持续更新】
 
-> **更新时间：2025/10/01**     
+> **更新时间：2025/10/12**     
 
-**全面体验 [Claude 中文版](https://ai.lanjing.pro/)，无需翻墙，支持 Claude 4 Sonnet 和多功能应用！**  
-本项目旨在为用户提供一站式的 **[Claude 中文版](https://xsimplechat.com/)使用指南**，同时整理了国内可用的 **[Claude 镜像网站](https://ai.lanjing.pro/)** 和 **官网使用教程**，帮助您快速上手 Claude，无论是个人使用还是专业需求。
+**全面体验 [Claude 中文版](https://lanjingchat.com/)，无需翻墙，支持 Claude 4 Sonnet 和多功能应用！**  
+本项目旨在为用户提供一站式的 **[Claude 中文版](https://xsimplechat.com/)使用指南**，同时整理了国内可用的 **[Claude 镜像网站](https://lanjingchat.com/)** 和 **官网使用教程**，帮助您快速上手 Claude，无论是个人使用还是专业需求。
 
 ---
 
@@ -20,7 +20,7 @@
 
 ## 什么是 Claude 中文版？
 
-[**Claude 中文版**](https://ai.lanjing.pro) 是由 Anthropic 开发的 Claude 4 Sonnet 模型的中文使用版本，专为中文用户提供更流畅、更精准的对话体验。  
+[**Claude 中文版**](https://lanjingchat.com) 是由 Anthropic 开发的 Claude 4 Sonnet 模型的中文使用版本，专为中文用户提供更流畅、更精准的对话体验。  
 与官方 Claude 相比，中文版在以下方面更适合国内用户：
 
 - **中文支持**：更流畅的中文对话能力，适合学习、办公和日常使用。
@@ -35,8 +35,8 @@
 
 | 镜像站名称       | 地址                                       | 支持版本         | 免费额度 | 注册方式   | 稳定性 | 功能亮点 |
 |------------------|--------------------------------|-------------|---------|---------|-----|------|
-| **蓝鲸 AI**     | [https://ai.lanjing.pro/](https://ai.lanjing.pro/) | Claude 4，GPT-4o，Gemini | 有       | 国内邮箱注册 | 高   | 中文支持，Claude 4，GPT-4o绘图 |
-| **Claude 中文站** | [https://xsimplechat.com](https://xsimplechat.com) | Claude 4     | 有       | 国内邮箱注册 | 高   | Claude 4，实时语音对话 |
+| **蓝鲸 AI**     | [https://lanjingchat.com/](https://lanjingchat.com/) | Claude 4.5，GPT-4o，Gemini | 有       | 国内邮箱注册 | 高   | 中文支持，Claude 4，GPT-4o绘图 |
+| **Claude 中文站** | [https://xsimplechat.com](https://xsimplechat.com) | Claude 4.5     | 有       | 国内邮箱注册 | 高   | Claude 4，实时语音对话 |
 
 ---
 
@@ -57,7 +57,7 @@
 ## 国内如何快速使用 Claude 中文版
 
 ### **方法一：通过镜像网站快速体验**
-1. **选择镜像站点**：访问推荐的镜像站点（如 [ai.lanjing.pro](https://ai.lanjing.pro)）。
+1. **选择镜像站点**：访问推荐的镜像站点（如 [lanjingchat.com](https://lanjingchat.com)）。
 2. **注册或直接使用**：
    - **邮箱注册**：填写邮箱和密码，完成账号创建。
    - **免注册**：直接进入聊天界面，输入问题即可获得回答。
